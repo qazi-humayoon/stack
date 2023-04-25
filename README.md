@@ -1,1 +1,1 @@
-## Stack
+## Basic Implementation of the Stack
